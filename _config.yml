@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Jakob Pederson Blog Test
+bio:                'Blog Test for the ages'
+description:        "Almost certainly never going to change"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            jakewithk
+facebook:
+github-url:         https://github.com/jakobpederson
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
